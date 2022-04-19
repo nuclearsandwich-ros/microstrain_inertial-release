@@ -1,1 +1,1 @@
-{"base": "754e0e6", "parent": "debian/rolling/microstrain_inertial_rqt", "previous": "472d77f", "trim": "", "trimbase": ""}
+{"base": "1d26750", "parent": "debian/humble/microstrain_inertial_rqt", "previous": "657b932", "trim": "", "trimbase": ""}
